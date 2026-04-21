@@ -34,12 +34,6 @@
       "purpose": "any"
     },
     {
-      "src": "icons/icon-152.png",
-      "sizes": "152x152",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
       "src": "icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
@@ -58,7 +52,11 @@
       "purpose": "any maskable"
     }
   ],
-  "categories": ["medical", "utilities", "productivity"],
+  "categories": [
+    "medical",
+    "utilities",
+    "productivity"
+  ],
   "lang": "en",
   "dir": "ltr"
 }
